@@ -1,0 +1,65 @@
+Books on java:
+headfirst_java
+headfirst design patterns
+headfirst ootd
+headfirst jsp and servlets
+effective java
+java 8 in action
+
+weaker concepts:
+Linked List
+inner class(nested class)
+
+
+primitive data types
+byte
+char
+boolean
+short
+int 
+long
+float
+double
+
+implicit conversion
+for small datatype to large.
+
+explicit typecasting
+int k = (int)5.6
+only 5 will be in k
+---------------------------
+naming convention
+interface should be _able like runnable first letter capital
+class name should be noun first letter capital
+method  should be verb first letter small
+variable first letter small 
+constant full capital
+package everything small 
+
+camelcasing when we use two words MyJava
+second wrd first letter capital
+for package and constant we use underscore
+
+-----------------------
+best practices
+dont duplicate the code cuz if changes are made in one other is forgotten.
+
+
+-----------------------------
+constructor
+constructor has same name as class name
+even if you dont define it wil be there - it is called default constructor
+it used to allocate memory to the object
+it will never return anything
+we can initialize values
+
+different types of constructors
+default constructor
+parameterized constructor
+======================
+learn this versus super
+=======================
+
+
+
+
